@@ -1,4 +1,4 @@
-package br.comar.ricardo.stuff.aws_xml_parser;
+package br.comar.ricardo.stuff.aws_xml_parser.manipulation;
 
 import static org.junit.Assert.assertEquals;
 
@@ -9,6 +9,8 @@ import org.apache.commons.io.FileUtils;
 import org.junit.Test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+
+import br.comar.ricardo.stuff.aws_xml_parser.manipulation.ContentParser;
 
 public class ContentParserTest {
 

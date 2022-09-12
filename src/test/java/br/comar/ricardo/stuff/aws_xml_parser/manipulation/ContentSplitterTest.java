@@ -1,4 +1,4 @@
-package br.comar.ricardo.stuff.aws_xml_parser;
+package br.comar.ricardo.stuff.aws_xml_parser.manipulation;
 
 import static org.junit.Assert.assertEquals;
 
@@ -13,6 +13,8 @@ import org.junit.Test;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.jayway.jsonpath.JsonPath;
 import com.jayway.jsonpath.ReadContext;
+
+import br.comar.ricardo.stuff.aws_xml_parser.manipulation.ContentSplitter;
 
 public class ContentSplitterTest {
 
