@@ -1,4 +1,4 @@
-package br.comar.ricardo.stuff.aws_xml_parser;
+package br.comar.ricardo.stuff.aws_xml_parser.manipulation;
 
 import org.json.JSONObject;
 import org.json.XML;
