@@ -14,8 +14,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.jayway.jsonpath.JsonPath;
 import com.jayway.jsonpath.ReadContext;
 
-import br.comar.ricardo.stuff.aws_xml_parser.manipulation.ContentSplitter;
-
 public class ContentSplitterTest {
 
     private static final String JSON_PATH = "$.content.notes[*][*]";

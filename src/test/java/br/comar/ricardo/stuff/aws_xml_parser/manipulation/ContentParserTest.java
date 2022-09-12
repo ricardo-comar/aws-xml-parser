@@ -10,8 +10,6 @@ import org.junit.Test;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import br.comar.ricardo.stuff.aws_xml_parser.manipulation.ContentParser;
-
 public class ContentParserTest {
 
     ContentParser contentParser = new ContentParser();
