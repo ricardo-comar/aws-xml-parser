@@ -7,12 +7,31 @@
         <from>Jani</from>
         <heading>Reminder</heading>
         <body>Don't forget me this weekend!</body>
+        <subjects>
+            <subject>
+                <id>1</id>
+            </subject>
+            <subject>
+                <id>2</id>
+            </subject>
+        </subjects>
       </note>
       <note>
         <to>Hommer Simpson</to>
         <from>Marge Simpson</from>
         <heading>Shopping List</heading>
         <body>Bring bread and milk</body>
+        <subjects>
+            <subject>
+                <id>3</id>
+            </subject>
+            <subject>
+                <id>4</id>
+            </subject>
+            <subject>
+                <id>5</id>
+            </subject>
+        </subjects>
       </note>
     </notes>
 </content>

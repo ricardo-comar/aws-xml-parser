@@ -1,20 +1,43 @@
 {
-    "content": {
-      "notes": {
-        "note": [
-          {
-            "to": "Tove",
-            "from": "Jani",
-            "heading": "Reminder",
-            "body": "Don't forget me this weekend!"
-          },
-          {
-            "to": "Hommer Simpson",
-            "from": "Marge Simpson",
-            "heading": "Shopping List",
-            "body": "Bring bread and milk"
+  "content": {
+    "notes": {
+      "note": [
+        {
+          "to": "Tove",
+          "from": "Jani",
+          "heading": "Reminder",
+          "body": "Don't forget me this weekend!",
+          "subjects": {
+            "subject": [
+              {
+                "id": 1
+              },
+              {
+                "id": 2
+              }
+            ]
           }
-        ]
-      }
+        },
+        {
+          "to": "Hommer Simpson",
+          "from": "Marge Simpson",
+          "heading": "Shopping List",
+          "body": "Bring bread and milk",
+          "subjects": {
+            "subject": [
+              {
+                "id": 3
+              },
+              {
+                "id": 4
+              },
+              {
+                "id": 5
+              }
+            ]
+          }
+        }
+      ]
     }
   }
+}
